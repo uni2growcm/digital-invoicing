@@ -52,7 +52,7 @@ The frontend app should implememt the following features:
 
 ## Notes
 - The previous schema is just an minimal schema, then you could complete it if necessary.
-- Our tech stack is mostly Java with Spring framework and React/Angular for front-end.
+- Our tech stack is mostly Java with Spring Boot framework and React/Angular for front-end.
 - Please create a 'production-ready' service as you see it (documentation / tests / logs / exception handling).
 - Please provide an instruction on how to run the app.
 - Submit your solution either as a public repository (github, bitbucket, etc.) or as a zip archive.
